@@ -8,7 +8,7 @@ Debugging is the process of finding and fixing the mistakes that prevent code fr
 <br>
 <br>
 
-<h1>First Code<h/1>
+<h1>First Code</h1>
 <img src="blog/images/codeone.png" alt="first">
 <p>
 The purpose of the code was to take a temperature value and determine whether it should be labeled as hot, temperate, or cold. The intention was for temperatures above 100 to be “hot,” temperatures between 50 and 100 to be “temperate,” and anything below 50 to be classified as “cold.”
@@ -23,7 +23,7 @@ The solution was to change the final elif to an else statement, ensuring that an
 <br>
 <br>
 
-<h1>Second Code<h1>
+<h1>Second Code</h1>
 <img src="blog/images/codetwo.png" alt="second">
 <p>
 The purpose of the code was to ask the user to enter the correct password, but only allow three attempts before the program stops. After the third incorrect attempt, the program should lock the user out.
