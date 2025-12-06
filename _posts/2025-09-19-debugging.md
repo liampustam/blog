@@ -9,7 +9,7 @@ Debugging is the process of finding and fixing the mistakes that prevent code fr
 <br>
 
 <h1>First Code</h1>
-<img src="blog/images/codeone.jpeg" alt="first">
+<img src="/blog/images/codeone.jpeg" alt="first">
 <p>
 The purpose of the code was to take a temperature value and determine whether it should be labeled as hot, temperate, or cold. The intention was for temperatures above 100 to be hot, temperatures between 50 and 100 to be temperate, and anything below 50 to be classified as cold.
 
@@ -24,7 +24,7 @@ The solution was to change the final elif to an else statement, ensuring that an
 <br>
 
 <h1>Second Code</h1>
-<img src="blog/images/codetwo.jpeg" alt="second">
+<img src="/blog/images/codetwo.jpeg" alt="second">
 <p>
 The purpose of the code was to ask the user to enter the correct password, but only allow three attempts before the program stops. After the third incorrect attempt, the program should lock the user out.
 
@@ -41,7 +41,7 @@ To fix the bug, I changed the condition from checking whether the attempts were 
 <h1>
 Third Code
 </h1>
-<img src="blog/images/codethree.jpeg" alt="third">
+<img src="/blog/images/codethree.jpeg" alt="third">
 <p>
 The purpose of the code was to calculate the factorial of a number entered by the user. After performing the calculation, the program should print out both the original number and the final factorial result.
 
@@ -55,7 +55,7 @@ To fix the bug, I converted both num and result to strings before printing. Once
 <br>
 
 <h1>Fourth Code</h1>
-<img src="blog/images/codefour.jpeg" alt="fourth">
+<img src="/blog/images/codefour.jpeg" alt="fourth">
 
 <p>
 The purpose of the code was to take the numbers from 1 to n and determine whether each number is even or odd. The program should loop through every integer in the range and correctly label it.
